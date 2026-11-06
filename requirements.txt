@@ -1,0 +1,6 @@
+# validate_output.py uses only the Python standard library (json, sys, argparse, os).
+# No third-party packages are needed.
+# Required: Python 3.8 or newer. Check your version with:  python --version
+#
+# If you later extend the project (for example with pandas or nltk for DH analysis),
+# add the package names below, one per line, and run:  pip install -r requirements.txt
